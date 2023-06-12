@@ -2,7 +2,7 @@
 
 Il file readme fornisce una descrizione generale dei file presenti in questo progetto, spiegando le caratteristiche del database TestRegesta e dei vari file di codice. Inoltre, fornisce informazioni sulla configurazione e sulle funzionalità di ogni file, aiutando l'utente a capire come utilizzarli correttamente.
 
-TestRegesta.sql
+# TestRegesta.sql
 
 Descrzione:
 Questo è il dump della struttura e dei dati di un database chiamato TestRegesta. 
@@ -22,7 +22,7 @@ Il dump include anche gli indici e i vincoli di chiave esterna tra le varie tabe
 Questo dump è stato creato con il motore per il salvataggio dati InnoDB e con il set di caratteri latin1.
 
 
-ConnessioneDatabase.php
+# ConnessioneDatabase.php
 
 Descrizione:
 Il file ConnessioneDatabase.php contiene il codice necessario per stabilire la connessione con il server localhost e con il database TestRegesta utilizzando la classe mysqli di PHP.
@@ -36,7 +36,7 @@ PASSWORD: indica la password per accedere al server MySQL
 DATABASE: indica il nome del database a cui ci si vuole connettere, in questo caso TestRegesta
 
 
-Index.php
+# Index.php
 
 Descrzione:
 
@@ -56,7 +56,7 @@ Infine, se ci sono fornitori disponibili, viene trovato il prezzo totale minimo 
 
 In sintesi, questa pagina si occupa di fornire all'utente un elenco completo dei fornitori disponibili per un prodotto, insieme ai relativi prezzi e tempi di spedizione, permettendo anche di valutare eventuali sconti applicabili e trovare il prezzo più conveniente.
 
-Stile.css
+# Stile.css
 
 Descrizione:
 Il file CSS definisce lo stile della pagina HTML.
