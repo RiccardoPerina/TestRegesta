@@ -52,7 +52,7 @@ Descrizione: Il file CSS definisce lo stile della pagina HTML.
 Configurazione: La prima regola applica un padding di 10px a tutto il contenuto del body della pagina. La seconda regola definisce il colore del testo degli elementi h1. La terza regola applica un'immagine di sfondo alla pagina HTML utilizzando l'url dell'immagine (Sfondo_TestRegesta.jpg) presente nella cartella "Immagine" e la definizione di alcune proprietà relative alla visualizzazione dell'immagine. Inoltre, viene specificata la famiglia del font utilizzata nella pagina.
 
 # Download e contatti
-Nella sezione [release](https://github.com/RiccardoPerina/TestRegesta/releases/tag/TestRegesta) puoi trovare l'ultima versione del programma.
+Nella sezione [release](https://github.com/RiccardoPerina/Test Regesta Riccardo Perina/releases/tag/TestRegesta) puoi trovare l'ultima versione del programma.
 
 > **Attenzione!**
 > Se hai bisogno di ulteriori chiarimenti sul codice, non esitare a contattarmi via email all'indirizzo r.perina982006@gmail.com. Sono disponibile per rispondere a tutte le tue domande e sciogliere ogni dubbio.
