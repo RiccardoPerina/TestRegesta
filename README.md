@@ -3,6 +3,20 @@
 </h1>
 <h4 align="center">Il file readme fornisce una descrizione generale dei file presenti in questo progetto, spiegando le caratteristiche del database testregesta e dei vari file di codice. Inoltre, fornisce informazioni sulla configurazione e sulle funzionalità di ogni file, aiutando l'utente a capire come utilizzarli correttamente.</h4><br>
 
+## Come aprire il progetto?
+
+Per utilizzare questo progetto si deve installare [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe/download), un pacchetto di software gratuito e open source che include i componenti necessari per creare e gestire un server web locale su un computer Windows, Mac o Linux. È spesso utilizzato per facilitare lo sviluppo di siti web e applicazioni web.
+
+
+> **Importare nella directory C:\xampp\htdocs i file scaricati nella sezione [release](https://github.com/RiccardoPerina/TestRegesta/releases/tag/TestRegesta_RiccardoPerina)**
+
+> **Avviare XAMPP e configurare le impostazioni di default**
+
+> **Abilitare i moduli Apache e MySQL**
+
+> **Recarsi sul browser e cercare http://localhost/testregesta/**
+
+
 # TestRegesta.sql
 
 Descrzione: Questo è il dump della struttura e dei dati del database chiamato TestRegesta. Il database contiene quattro tabelle: Fornitore, Prodotto, Sconto e Giacenza.
