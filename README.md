@@ -1,4 +1,6 @@
-# Test Regesta
+# Test Regesta Riccardo Perina
+
+Il file readme fornisce una descrizione generale dei file presenti in questo progetto, spiegando le caratteristiche del database TestRegesta e dei vari file di codice. Inoltre, fornisce informazioni sulla configurazione e sulle funzionalità di ogni file, aiutando l'utente a capire come utilizzarli correttamente.
 
 TestRegesta.sql
 
